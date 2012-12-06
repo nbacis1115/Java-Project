@@ -260,7 +260,7 @@ class GUIPanel
 		{
 			statusTA.setText("All Systems Go");
 			JOptionPane.showMessageDialog(framePanel,
-				"NBA Fantasy Statistics Application by Sydney Herbert, Adam Murtland, 2012.12.1",
+				"NBA Fantasy Statistics Application by Sydney Herbert, Adam Murtland, and Onyema Utti 2012.12.1",
 				"About", JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
